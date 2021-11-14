@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/email-sender-to-me/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/email-sender-to-me/static/js/main.f5390358.chunk.js",
+    "main.js.map": "/email-sender-to-me/static/js/main.f5390358.chunk.js.map",
+    "runtime-main.js": "/email-sender-to-me/static/js/runtime-main.7f5fb37e.js",
+    "runtime-main.js.map": "/email-sender-to-me/static/js/runtime-main.7f5fb37e.js.map",
+    "static/js/2.5af0ed64.chunk.js": "/email-sender-to-me/static/js/2.5af0ed64.chunk.js",
+    "static/js/2.5af0ed64.chunk.js.map": "/email-sender-to-me/static/js/2.5af0ed64.chunk.js.map",
+    "static/js/3.70cc4c6f.chunk.js": "/email-sender-to-me/static/js/3.70cc4c6f.chunk.js",
+    "static/js/3.70cc4c6f.chunk.js.map": "/email-sender-to-me/static/js/3.70cc4c6f.chunk.js.map",
+    "index.html": "/email-sender-to-me/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/email-sender-to-me/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.5af0ed64.chunk.js.LICENSE.txt": "/email-sender-to-me/static/js/2.5af0ed64.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f5fb37e.js",
+    "static/js/2.5af0ed64.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f5390358.chunk.js"
+  ]
+}
